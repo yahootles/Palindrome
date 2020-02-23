@@ -1,7 +1,7 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Andrew Thompson
+ * February 23, 2020
+ * Determines if a word is a palindrome
  */
 package palindrome;
 
